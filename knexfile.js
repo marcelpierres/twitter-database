@@ -37,6 +37,7 @@ module.exports = {
       tableName: 'knex_migrations',
       directory: './migrations',
     },
+    ssl: 'true',
   },
 
 };
